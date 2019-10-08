@@ -1,4 +1,4 @@
-### Esercitazioni del corso 'Ingegneria del Software'
+## Ingegneria del Software - Esercitazioni
 
 #### Aggiornamenti
 
