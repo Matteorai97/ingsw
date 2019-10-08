@@ -5,7 +5,7 @@
 - 04/10/19: caricato il materiale della prima esercitazione
 
 
-#### Temi trattati
+#### Programma
 
 - Programmazione ad oggetti in Java
 - Design Patterns
