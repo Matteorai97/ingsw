@@ -10,7 +10,6 @@
 - Programmazione ad oggetti in Java
 - Design Patterns
 - Networking in Java
-- UI in Java
 - Progettazione in UML
 - JML
 
