@@ -38,10 +38,9 @@ public class Stack {
 
     public static void main(String[] args){
         Stack s = new Stack(5);
-
+        Object o = new Object();
         s.push(1);
         System.out.println(s.pop());
         System.out.println(s.pop());
-
     }
 }
