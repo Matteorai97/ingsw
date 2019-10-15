@@ -2,6 +2,7 @@
 
 #### Aggiornamenti
 
+- 8/10/19: caricato il materiale della seconda esercitazione
 - 04/10/19: caricato il materiale della prima esercitazione
 
 
