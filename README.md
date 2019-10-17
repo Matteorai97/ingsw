@@ -2,7 +2,8 @@
 
 #### Aggiornamenti
 
-- 04/10/19: caricato il materiale della prima esercitazione
+- 8/10/19: caricato il materiale della seconda esercitazione
+- 4/10/19: caricato il materiale della prima esercitazione
 
 
 #### Programma
