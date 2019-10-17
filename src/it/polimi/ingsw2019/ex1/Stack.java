@@ -2,9 +2,9 @@ package it.polimi.ingsw2019.ex1;
 
 public class Stack {
 
-    private int data[];
-    private int cur;
-    private int size;
+    protected int data[];
+    protected int cur;
+    protected int size;
 
     public Stack(int size){
         this.size = size;
@@ -36,6 +36,7 @@ public class Stack {
         return cur;
     }
 
+    /*
     public static void main(String[] args){
         Stack s = new Stack(5);
         Object o = new Object();
@@ -43,4 +44,5 @@ public class Stack {
         System.out.println(s.pop());
         System.out.println(s.pop());
     }
+    */
 }
