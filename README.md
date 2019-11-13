@@ -2,6 +2,7 @@
 
 #### Aggiornamenti
 
+- 13/11/19: caricato il materiale della quarta esercitazione
 - 17/10/19: caricato il materiale della terza esercitazione
 - 8/10/19: caricato il materiale della seconda esercitazione
 - 4/10/19: caricato il materiale della prima esercitazione
