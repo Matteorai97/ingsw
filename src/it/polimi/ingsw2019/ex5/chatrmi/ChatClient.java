@@ -7,6 +7,7 @@ public class ChatClient extends UnicastRemoteObject implements ChatClientI {
 
     private UI ui;
     private String username;
+
     public ChatClient(UI ui, String username) throws RemoteException {
         this.ui = ui;
         this.username = username;
