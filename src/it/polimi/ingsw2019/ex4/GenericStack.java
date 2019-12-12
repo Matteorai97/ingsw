@@ -8,7 +8,7 @@ import java.util.LinkedList;
 
 public class GenericStack<E> implements Iterable<E> {
 
-    LinkedList<E> data = new LinkedList<>();
+    protected LinkedList<E> data = new LinkedList<>();
     private int limit;
 
     public GenericStack(int max){

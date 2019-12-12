@@ -2,6 +2,7 @@
 
 #### Aggiornamenti
 
+- 12/12/19: caricato il materiale della settima ed ultima esercitazione
 - 27/11/19: caricato il materiale della sesta esercitazione
 - 21/11/19: caricato il materiale della quinta esercitazione
 - 13/11/19: caricato il materiale della quarta esercitazione
